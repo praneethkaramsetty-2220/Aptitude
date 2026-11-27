@@ -1,0 +1,4 @@
+Write a prompt asking ChatGPT to act as a college timetable coordinator and create a weekly class timetable for a second-year CSE section with 6 subjects.
+
+promp : 
+ create the time table , Act as a college timetable coordinator and create a well-organized weekly class timetable for a second-year CSE (Computer Science and Engineering) student. Include 6 subjects and arrange them properly from Monday to Friday. Make sure the timetable has balanced class periods, suitable breaks, and no subject repeated too many times in a single day. Present the timetable in a neat table with days, time slots, and subjects. Make it simple, clear, and easy for students to follow.
